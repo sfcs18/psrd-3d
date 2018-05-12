@@ -11,10 +11,10 @@
 https://github.com/okinjp/psrd-3d/raw/master/psrd_0_3dmodel.zip
 
 優先しない席
-https://github.com/okinjp/psrd-3d/raw/master/psrd_0_3dmodel.zip
+https://github.com/okinjp/psrd-3d/raw/master/psrd_1_3dmodel.zip
 
 優先しない席床面広告(中間時未使用)
-https://github.com/okinjp/psrd-3d/raw/master/psrd_0_3dmodel.zip
+https://github.com/okinjp/psrd-3d/raw/master/psrd_2_3dmodel.zip
 
 
 モデルの著作権は制作者であるokinjpに帰属し、テクスチャの著作権に関してはPSRDの各デザイナーに属するものとします。
